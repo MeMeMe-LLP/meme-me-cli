@@ -1,0 +1,15 @@
+{
+  "name": "@meme/me",
+  "version": "0.1.0",
+  "description": "Popup gif meme on any place on screen. Highly professional, highly stupid.",
+  "private": false,
+  "bin": {
+    "meme": "./bin/meme.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["meme", "popup", "joke", "cli"],
+  "author": "Meme@Me",
+  "license": "ISC"
+}
